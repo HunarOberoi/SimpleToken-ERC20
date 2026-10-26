@@ -43,3 +43,5 @@ The expected balances after a successful transfer are:
 ## Important Note
 Sepolia is a test network. STK tokens created by this project are for educational and testing purposes only; they are not real-money assets.
 <img width="1340" height="611" alt="Screenshot 2026-10-26 163904" src="https://github.com/user-attachments/assets/2c84f46b-4ffc-4ad4-9dde-744924360b41" />
+<img width="1336" height="634" alt="Screenshot 2026-10-26 163317" src="https://github.com/user-attachments/assets/d8656537-8c4d-4234-ba4b-f50ae0a5d32f" />
+<img width="1345" height="635" alt="Screenshot 2026-10-26 162415" src="https://github.com/user-attachments/assets/64de5d93-5c13-42df-b78b-77c5f73ea8db" />
